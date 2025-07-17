@@ -1,0 +1,6 @@
+# Common
+.env
+__pycache__/
+.venv/
+*.db
+
